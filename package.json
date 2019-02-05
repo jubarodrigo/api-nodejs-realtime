@@ -1,0 +1,11 @@
+{
+  "name": "api-nodejs-realtime",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jubarodrigo/api-nodejs-realtime.git",
+  "author": "jubarodrigo <rodrigo.gomes@ntk.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
