@@ -6,6 +6,13 @@
   "author": "jubarodrigo <rodrigo.gomes@ntk.com.br>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mongoose": "^5.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "scripts": {
+    "start": "nodemon src/index.js"    
   }
 }
